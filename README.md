@@ -26,9 +26,6 @@ The bot provides:
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Demo Video
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/akshit040504/AI-Customer-Support---Unthinkable_Assignment.git
-   cd AI-Customer-Support---Unthinkable_Assignment
+
