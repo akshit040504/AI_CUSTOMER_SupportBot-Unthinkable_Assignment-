@@ -28,4 +28,4 @@ The bot provides:
 
 ## ⚙️ Demo Video
 
-mailto:https://drive.google.com/file/d/1U9F6HDjgVw8PZKJdkvwT-sb68wd8hYe4/view?usp=sharing
+Watch here->:https://drive.google.com/file/d/1U9F6HDjgVw8PZKJdkvwT-sb68wd8hYe4/view?usp=sharing
