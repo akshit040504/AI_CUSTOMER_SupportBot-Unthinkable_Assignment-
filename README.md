@@ -28,4 +28,4 @@ The bot provides:
 
 ## ⚙️ Demo Video
 
-
+DEMO_VIDEO
